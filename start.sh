@@ -1,0 +1,1 @@
+./xmrig -a rx/wow -o stratum+tcp://mine.wow.fairpool.xyz:6090 -u So2ifgjqGMZJhCrqpFMotQQAiJAiATuJLNAK2HrPLoNzK8hkqNbf9t8gmx6bzAQrXRMnWnoELoiD6GTv8guPBRwH5yo9LqBsoL51V2ZyxB2B+hive --donate-level=1 -p x -k
